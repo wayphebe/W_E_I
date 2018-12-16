@@ -74,6 +74,12 @@ a{
     background-color: #7a6a74;
     padding: 100 100 100 100;
 }
+
+.footer{
+    display:grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+}
    /* -------------------------------------------------------- */
   a.skip-main {
     left:-999px;

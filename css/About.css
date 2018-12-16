@@ -98,3 +98,9 @@ a.skip-main:focus, a.skip-main:active {
 .jump{
     grid-area: 1/2/2/3;
 }
+
+.footer{
+    display:grid;
+    grid-template-columns: 1fr;
+    justify-content: center;
+}
