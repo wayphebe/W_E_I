@@ -75,10 +75,12 @@ a{
     padding: 100 100 100 100;
 }
 
-.footer{
-    display:grid;
-    grid-template-columns: 1fr;
-    justify-content: center;
+footer{
+    font-family: "Noto Sans";
+    font-size: 14px;
+    color: #41414b;
+    margin: 150px auto auto 565px;
+
 }
    /* -------------------------------------------------------- */
   a.skip-main {

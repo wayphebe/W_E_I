@@ -72,8 +72,10 @@ a.skip-main:focus, a.skip-main:active {
     grid-area: 1/2/2/3;
 }
 
-.footer{
-    display:grid;
-    grid-template-columns: 1fr;
-    justify-content: center;
+footer{
+    font-family: "Noto Sans";
+    font-size: 14px;
+    color: #41414b;
+    margin: 150px auto auto 565px;
+
 }
