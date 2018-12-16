@@ -3,7 +3,9 @@
 
 
 
-
+.navigation .current{
+    background-color: aquamarine;
+}
 /* -------------------------------------------------------- */
 a{
     font-family: "Noto Sans";
