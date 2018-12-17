@@ -37,6 +37,12 @@ a{
      transform: translateY(-3px) rotateY(50deg);
      transition: 1s cubic-bezier(0.075, 0.82, 0.165, 1);
    }
+   .graphic{
+       margin: -80 0 0 200px;
+       display: grid;
+       grid-template-columns: 1fr 1fr 1fr;
+       grid-gap: 5px;
+   }
 /* -------------------------------------------------------- */
 a.skip-main {
     left:-999px;
