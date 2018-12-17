@@ -173,6 +173,13 @@ footer{
     margin: 150px auto auto 565px;
 
 }
+
+
+
+
+
+
+	
 /* -----------------media queries----------------- */
 @media only screen and (max-width: 480px) {
     .header{
@@ -290,4 +297,6 @@ footer{
         }
        
     }
-  } 
+
+
+  
